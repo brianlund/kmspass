@@ -6,3 +6,7 @@ Chef helper library that allows you to pass a base64 encrypted KMS secret and ha
 
 
 plaintext = kms_decrypt("base64encryptedstring") 
+
+## Limitations
+
+region is hardcoded to eu-west-1 in libraries/kmspass_helper.rb at the moment
