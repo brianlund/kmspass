@@ -1,6 +1,6 @@
 # kmspass
 
-Chef helper library that allows you to pass a base64 encrypted KMS secret and have a decrypted plaintext sting returned - if your in stance has the right permissions for the KMS key.
+Chef helper library that allows you to pass a base64 encrypted KMS secret and have a decrypted plaintext sting returned - if your instance has the right permissions for the KMS key.
 
 ## Usage
 
